@@ -1,5 +1,4 @@
-## Hello Everyone welcome to my git guide
+## Hello Git
 
-Yo Someother one here
-
+this is comming from dev-Gokul
 I am adding this from `fix branch`
